@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css'; // If you're using CSS
+
+import './App.css';
 import ApiComponent from './components/ApiComponent';
 
 function App() {
